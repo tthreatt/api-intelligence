@@ -1,0 +1,74 @@
+flowchart TB
+    subgraph input["Input: Raw Profile Data"]
+        RAW[("Raw profile JSON<br/>Licenses, NPI Validation,<br/>Primary Source Dates,<br/>Result/Flags")]
+    end
+
+    subgraph prep["Data Prep Pipeline"]
+        NORM[("1. Normalize & standardize<br/>Canonical state, issuer, category;<br/>taxonomy code + label")]
+        DENORM[("2. Denormalize profile → chunk<br/>Attach npi, provider_type,<br/>result_status, has_board_action<br/>to every unit")]
+        UNIT[("3. Choose indexable unit<br/>A: Profile summary<br/>B: Section-level chunks<br/>C: Aggregates (optional)")]
+        DERIVE[("4. Build derived layer<br/>A: Summary + metadata per profile<br/>B: Slice into chunks + metadata<br/>C: Precompute aggregate stats")]
+    end
+
+    subgraph index["Indexing"]
+        META[("5. Attach metadata to every chunk<br/>npi, category, issuer, origin,<br/>provider_type, has_board_action,<br/>result_status, state")]
+        VSTORE[(Vector store +<br/>metadata filters)]
+        DB[(Structured DB<br/>counts, NPI lists)]
+    end
+
+    subgraph context["Context for LLM"]
+        SCHEMA["Schema / data dictionary"]
+        TAX["Taxonomy mapping<br/>code → label"]
+        SEM["Source, verification &<br/>result/risk semantics"]
+    end
+
+    subgraph query["Query Flow"]
+        Q["User question"]
+        ROUTE{"Query type?"}
+        STRUCT["Structured query<br/>(counts, filters, NPI lists)"]
+        RAG["RAG path<br/>(why, pattern, compare)"]
+        FILTER["Metadata filters<br/>(issuer, category, state,<br/>provider_type, result_status)"]
+        VEC["Vector search"]
+        RETRIEVE["Retrieved chunks"]
+        ASSEMBLE["Assemble context<br/>+ schema + taxonomy + semantics<br/>+ single profile OR aggregates + examples"]
+        LLM["LLM response"]
+    end
+
+    subgraph usecases["Use cases"]
+        RULES["Rules engine / eligibility"]
+        GAPS["Statistical analyses / gaps"]
+        NARR["Provider narrative"]
+    end
+
+    RAW --> NORM
+    NORM --> DENORM
+    DENORM --> UNIT
+    UNIT --> DERIVE
+    DERIVE --> META
+    META --> VSTORE
+    META --> DB
+
+    Q --> ROUTE
+    ROUTE -->|Exact counts, NPI lists| STRUCT
+    ROUTE -->|Why, pattern, compare| RAG
+    STRUCT --> DB
+    RAG --> FILTER
+    FILTER --> VEC
+    VEC --> VSTORE
+    VSTORE --> RETRIEVE
+    RETRIEVE --> ASSEMBLE
+    SCHEMA --> ASSEMBLE
+    TAX --> ASSEMBLE
+    SEM --> ASSEMBLE
+    ASSEMBLE --> LLM
+
+    LLM --> RULES
+    LLM --> GAPS
+    LLM --> NARR
+
+    style input fill:#e8f4f8
+    style prep fill:#fff4e6
+    style index fill:#e8f8e8
+    style context fill:#f3e8ff
+    style query fill:#ffe6e6
+    style usecases fill:#f0f0f0

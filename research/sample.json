@@ -1,0 +1,624 @@
+{
+    "CMS Preclusion List" : [ ],
+    "Exclusions" : [ ],
+    "Licenses" : [ {
+      "additionalInfo" : {
+        "deaSchedules" : "2, 2N, 3, 3N, 4, 5",
+        "licenseState" : "CA"
+      },
+      "category" : "CONTROLLED_SUBSTANCE_REGISTRATION",
+      "expirationDate" : "2026-12-31",
+      "firstName" : "OLLIE",
+      "hasBoardAction" : false,
+      "issuer" : "DEA",
+      "lastName" : "JACKSON",
+      "number" : "FJ9898288",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-09",
+      "primarySourceLastVerifiedDate" : "2026-01-12",
+      "screenshotId" : "91d77218-972b-414e-ae2d-9e02271c7ff3",
+      "source" : "Drug Enforcement Administration Bulk Data",
+      "sourceRecordLastUpdatedDate" : "2026-01-09",
+      "status" : "Active",
+      "type" : "DEA - Drug Enforcement Administration"
+    }, {
+      "additionalInfo" : {
+        "mocStatus" : "Y",
+        "renewalDate" : "2024-10-24",
+        "durationType" : "MOC",
+        "reverificationDate" : "2027-01-05"
+      },
+      "category" : "BOARD_CERTIFICATION",
+      "expirationDate" : "2027-01-05",
+      "firstName" : "Ollie",
+      "hasBoardAction" : false,
+      "issueDate" : "2006-12-13",
+      "issuer" : "ABMS - American Board of Medical Specialties",
+      "lastName" : "Jackson",
+      "middleName" : "Joseph",
+      "number" : "851942",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-02-01",
+      "primarySourceLastVerifiedDate" : "2026-02-01",
+      "screenshotId" : "9a6d7ff1-d892-460e-8e70-7285efc6a786",
+      "source" : "ABMS - American Board of Medical Specialties",
+      "status" : "Active",
+      "type" : "Surgery Specialty Certificate"
+    }, {
+      "additionalInfo" : {
+        "deaSchedules" : "2, 2N, 3, 3N, 4, 5",
+        "licenseState" : "OK"
+      },
+      "category" : "CONTROLLED_SUBSTANCE_REGISTRATION",
+      "expirationDate" : "2027-12-31",
+      "firstName" : "OLLIE",
+      "hasBoardAction" : false,
+      "issuer" : "DEA",
+      "lastName" : "JACKSON",
+      "middleName" : "J",
+      "number" : "FJ5300811",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-16",
+      "primarySourceLastVerifiedDate" : "2026-01-16",
+      "screenshotId" : "8838f8e6-dfc9-4f81-9aab-ee2d319b9d0c",
+      "source" : "Drug Enforcement Administration Bulk Data",
+      "sourceRecordLastUpdatedDate" : "2026-01-16",
+      "status" : "Active",
+      "type" : "DEA - Drug Enforcement Administration"
+    }, {
+      "additionalInfo" : {
+        "deaSchedules" : "2, 2N, 3, 3N, 4, 5",
+        "licenseState" : "CA"
+      },
+      "category" : "CONTROLLED_SUBSTANCE_REGISTRATION",
+      "expirationDate" : "2025-12-31",
+      "firstName" : "OLLIE",
+      "hasBoardAction" : false,
+      "issuer" : "DEA",
+      "lastName" : "JACKSON",
+      "middleName" : "J",
+      "number" : "FJ0945002",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-30",
+      "primarySourceLastVerifiedDate" : "2026-01-30",
+      "screenshotId" : "4c8dc0c2-c451-469c-a73f-ca742bb67eaf",
+      "source" : "Drug Enforcement Administration Bulk Data",
+      "sourceRecordLastUpdatedDate" : "2026-01-30",
+      "status" : "Inactive",
+      "type" : "DEA - Drug Enforcement Administration"
+    }, {
+      "category" : "STATE_LICENSE",
+      "expirationDate" : "2026-09-01",
+      "firstName" : "OLLIE",
+      "hasBoardAction" : false,
+      "issueDate" : "2013-09-27",
+      "issuer" : "Oklahoma",
+      "lastName" : "JACKSON",
+      "middleName" : "JOSEPH",
+      "number" : "30247",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-31",
+      "primarySourceLastVerifiedDate" : "2026-01-31",
+      "screenshotId" : "2951ef25-02c0-4104-835b-af719e29f381",
+      "source" : "Oklahoma Board of Medical Licensure and Supervision",
+      "status" : "Active",
+      "type" : "Medical Doctor"
+    }, {
+      "boardActionDetails" : "Board action present",
+      "boardActionScreenshotId" : "3922812d-ca7a-45f8-896b-1eeb2480394f",
+      "category" : "STATE_LICENSE",
+      "expirationDate" : "2027-09-30",
+      "firstName" : "OLLIE",
+      "hasBoardAction" : true,
+      "issueDate" : "2008-04-23",
+      "issuer" : "California",
+      "lastName" : "JACKSON",
+      "middleName" : "JOSEPH",
+      "number" : "A103543",
+      "origin" : "NPPES",
+      "primarySourceCheckedDate" : "2026-01-30",
+      "primarySourceLastVerifiedDate" : "2026-01-30",
+      "screenshotId" : "3922812d-ca7a-45f8-896b-1eeb2480394f",
+      "source" : "California Department of Consumer Affairs BreEZe Online Services",
+      "status" : "Active",
+      "type" : "PHYSICIAN AND SURGEON A"
+    }, {
+      "boardActionData" : {
+        "boardActionScreenshotIds" : [ "faa47943-2eea-426c-a9ee-4cad790f1569" ],
+        "boardActionTexts" : [ "Fine Imposed Applied 08/20/2021 08/20/2021", "Probation Applied 08/20/2021 10/08/2021", "Public Consent Order OLLIE JACKSON III (CO 2021).pdf" ]
+      },
+      "boardActionDetails" : "Board action present",
+      "boardActionScreenshotId" : "36aef22b-1a6e-4f24-b41a-bc5bf155cfdd",
+      "category" : "STATE_LICENSE",
+      "expirationDate" : "2026-06-13",
+      "firstName" : "Ollie",
+      "hasBoardAction" : true,
+      "issueDate" : "2006-06-13",
+      "issuer" : "Michigan",
+      "lastName" : "Jackson",
+      "middleName" : "Joseph",
+      "number" : "4301078603",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-25",
+      "primarySourceLastVerifiedDate" : "2026-01-25",
+      "screenshotId" : "a85170fa-a55d-400f-b6be-0fd77e67b631",
+      "source" : "LARA Department of Licensing and Regulatory Affairs",
+      "status" : "Active",
+      "type" : "Medical Doctor"
+    }, {
+      "boardActionData" : {
+        "boardActionScreenshotIds" : [ "440d185e-df62-490b-ba34-6e9570137b5f", "d61c44fb-e848-492d-ae36-443c6a1cddfc", "3c0b024d-369b-46d2-8ade-65aa89d4eb7a" ],
+        "boardActionTexts" : [ "    MD460055  OLLIE JOSEPH JACKSON  Medical Physician and Surgeon  20-49-009283  Suspension (Stayed)", "    MD460055  OLLIE JOSEPH JACKSON  Medical Physician and Surgeon  20-49-009283  Probation", "    MD460055  OLLIE JOSEPH JACKSON  Medical Physician and Surgeon  24-49-003339  Reinstatement Granted" ]
+      },
+      "boardActionDetails" : "Board action present",
+      "boardActionScreenshotId" : "df3e487c-05a2-4911-a95a-cac9f958a805",
+      "category" : "STATE_LICENSE",
+      "expirationDate" : "2026-12-31",
+      "firstName" : "OLLIE",
+      "hasBoardAction" : true,
+      "issueDate" : "2017-02-07",
+      "issuer" : "Pennsylvania",
+      "lastName" : "JACKSON",
+      "middleName" : "JOSEPH",
+      "number" : "MD460055",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-11",
+      "primarySourceLastVerifiedDate" : "2026-01-11",
+      "screenshotId" : "c6f297c6-5384-42dd-b6e3-413b16d6b507",
+      "source" : "Pennsylvania Department of State Online License Verification Service",
+      "status" : "Active",
+      "type" : "Medical Physician and Surgeon"
+    }, {
+      "boardActionData" : {
+        "boardActionScreenshotIds" : [ "5a794643-41b4-4cc4-8830-f4a5198800da", "728fd25f-fbca-4b59-ac4f-7c324ffdc327" ],
+        "boardActionTexts" : [ "  Yes  Probation of License  7/29/2020  Consent Order", "  Yes  Termination of Consent Order  5/26/2022  Board Order" ]
+      },
+      "boardActionDetails" : "Board action present",
+      "boardActionScreenshotId" : "8df3f8d5-ad75-4131-953e-c82d92bbfa0d",
+      "category" : "STATE_LICENSE",
+      "expirationDate" : "2022-06-30",
+      "firstName" : "Ollie",
+      "hasBoardAction" : true,
+      "issueDate" : "2016-11-14",
+      "issuer" : "West Virginia",
+      "lastName" : "Jackson",
+      "middleName" : "Joseph",
+      "number" : "27313",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-10",
+      "primarySourceLastVerifiedDate" : "2026-01-10",
+      "screenshotId" : "35645d66-fc2e-4e7d-9fb3-ea94b5543139",
+      "source" : "West Virginia Board of Medicine Licensee Search",
+      "status" : "Expired",
+      "type" : "Medical Doctor"
+    }, {
+      "category" : "CONTROLLED_SUBSTANCE_REGISTRATION",
+      "expirationDate" : "2026-10-31",
+      "firstName" : "OLLIE",
+      "hasBoardAction" : false,
+      "issueDate" : "2025-09-01",
+      "issuer" : "Oklahoma",
+      "lastName" : "JACKSON",
+      "number" : "10017882",
+      "origin" : "PT_NETWORK",
+      "primarySourceCheckedDate" : "2026-01-17",
+      "primarySourceLastVerifiedDate" : "2026-01-17",
+      "screenshotId" : "f6b7751d-45d6-4c31-8c88-07d640bf5b10",
+      "source" : "Oklahoma Bureau of Narcotics and Dangerous Drugs Control",
+      "status" : "Active",
+      "type" : "Practitioner"
+    } ],
+    "NPI Validation" : {
+      "ein" : "",
+      "entityType" : "1-Individual",
+      "enumerationDate" : "2008-05-30",
+      "gender" : "MALE",
+      "licenses" : [ {
+        "code" : "2086S0122X - Allopathic & Osteopathic Physicians - Surgery - Plastic and Reconstructive Surgery",
+        "group" : "193400000X MULTIPLE SINGLE SPECIALTY GROUP",
+        "number" : "A103543",
+        "state" : "CA",
+        "switch" : "No"
+      }, {
+        "code" : "208600000X - Allopathic & Osteopathic Physicians - Surgery",
+        "group" : "193400000X MULTIPLE SINGLE SPECIALTY GROUP",
+        "number" : "A103543",
+        "state" : "CA",
+        "switch" : "Yes"
+      } ],
+      "mailingAddress" : "9001 WILSHIRE BLVD SUITE #106 BEVERLY HILLS CA 902111838 US",
+      "mailingFax" : "3102738662",
+      "mailingPhone" : "3102738885",
+      "npi" : "1104084698",
+      "otherLastNameTypecode" : "5 - Other Name (Individual or Business)",
+      "otherName" : "DR. JAY JACKSON M.D.",
+      "parentTIN" : "",
+      "practiceAddress" : "9001 WILSHIRE BLVD SUITE #106 BEVERLY HILLS CA 902111838 US",
+      "practiceFax" : "3102738662",
+      "practicePhone" : "3102738885",
+      "primarySourceCheckedDate" : "2026-02-03",
+      "primarySourceLastVerifiedDate" : "2026-02-03",
+      "providerName" : "DR. OLLIE JOSEPH JACKSON III M.D.",
+      "providerNameDetails" : {
+        "firstName" : "OLLIE",
+        "lastName" : "JACKSON",
+        "middleName" : "JOSEPH",
+        "prefix" : "DR.",
+        "suffix" : "III"
+      },
+      "soleProprietor" : "Y - Individual is Sole Proprietor",
+      "sourceRecordLastUpdatedDate" : "2024-09-27",
+      "taxonomyGroup" : "193400000X MULTIPLE SINGLE SPECIALTY GROUP, 193400000X MULTIPLE SINGLE SPECIALTY GROUP",
+      "updateDate" : "2023-03-15"
+    },
+    "OFAC" : [ ],
+    "Opt Out" : { },
+    "Primary Source Checked Dates" : [ {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Alabama"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Alaska"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Arizona"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Arkansas"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "California"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Colorado"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Connecticut"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-03",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-03",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Delaware"
+    }, {
+      "jurisdiction" : "Federal",
+      "primarySourceCheckedDate" : null,
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : null,
+      "recordType" : "EXCLUSIONS",
+      "source" : "EPLS"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Florida"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Georgia"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Hawaii"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-01-23",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-01-23",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Idaho"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Illinois"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Indiana"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Iowa"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Kansas"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Kentucky"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Louisiana"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Maine"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Maryland"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Massachusetts"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Michigan"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Minnesota"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Mississippi"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Missouri"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Montana"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Nebraska"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Nevada"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "New Hampshire"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "New Jersey"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "New York"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "North Carolina"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "North Dakota"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Ohio"
+    }, {
+      "jurisdiction" : "Federal",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "OIG High Risk"
+    }, {
+      "jurisdiction" : "Federal",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "OIG-LEIE"
+    }, {
+      "jurisdiction" : "Federal",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "OIG Waivers"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-01-05",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-01-05",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Oregon"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Pennsylvania"
+    }, {
+      "jurisdiction" : "Federal",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "SAM Exclusions"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "South Carolina"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Tennessee"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Texas"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Vermont"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Washington"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Washington DC"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "West Virginia"
+    }, {
+      "jurisdiction" : "State",
+      "primarySourceCheckedDate" : "2026-01-12",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-01-12",
+      "recordType" : "EXCLUSIONS",
+      "source" : "Wyoming"
+    }, {
+      "primarySourceCheckedDate" : "2026-02-03",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-03",
+      "recordType" : "OPT_OUT",
+      "source" : "Opt Out"
+    }, {
+      "primarySourceCheckedDate" : "2026-01-26",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-01-26",
+      "recordType" : "PRECLUSION",
+      "source" : "Preclusion"
+    }, {
+      "jurisdiction" : "Federal",
+      "primarySourceCheckedDate" : "2026-02-04",
+      "primarySourceLastUpdatedDate" : null,
+      "primarySourceLastVerifiedDate" : "2026-02-04",
+      "recordType" : "EXCLUSIONS",
+      "source" : "OFAC"
+    } ],
+    "resultStatus" : "ISSUE_FOUND",
+    "searchHistoryId" : "1ab76f6a-bd77-49bd-b5a2-c44e1a2fb9f4",
+    "searchRequest" : {
+      "npis" : [ "1104084698" ]
+    }
+  }

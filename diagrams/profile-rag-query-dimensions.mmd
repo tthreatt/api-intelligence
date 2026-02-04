@@ -1,0 +1,28 @@
+flowchart LR
+    subgraph profile["Profile (one NPI)"]
+        LIC[Licenses<br/>category, issuer, origin,<br/>source, status,<br/>hasBoardAction]
+        NPI[NPI Validation<br/>taxonomy, provider name,<br/>addresses]
+        PSC[Primary Source<br/>Checked Dates]
+        RES[Result / flags<br/>resultStatus, CMS,<br/>Exclusions, OFAC]
+    end
+
+    subgraph slice["Query across: slice by"]
+        D1[Issuer / source]
+        D2[Category]
+        D3[Provider type<br/>taxonomy]
+        D4[Jurisdiction]
+        D5[Risk / outcome]
+    end
+
+    subgraph chunkopts["Chunk options for RAG"]
+        A["A: Profile summary<br/>one doc per provider"]
+        B["B: Section-level<br/>one chunk per section per profile"]
+        C["C: Aggregates<br/>precomputed reports"]
+    end
+
+    profile --> slice
+    profile --> chunkopts
+
+    style profile fill:#e8f4f8
+    style slice fill:#fff4e6
+    style chunkopts fill:#e8f8e8
