@@ -1,0 +1,481 @@
+[
+    {
+      "id": "TSH_CHATPRD_PINK_ANTITODO",
+      "sku": "TSH-CHATPRD-PNK-ANTI-001",
+      "name": "ChatPRD Tee – Anti To-Do List",
+      "slug": "chatprd-tee-anti-to-do-list",
+      "brand": "ChatPRD",
+      "description": "Pink unisex tee with the ChatPRD logo and “Anti To-Do List” statement. For product leaders who kill noise instead of collecting tasks.",
+      "shortDescription": "Pink Anti To-Do List tee.",
+      "categoryIds": ["cat_tshirts"],
+      "tags": ["tshirt", "pink", "anti to-do list", "builder energy", "chatprd"],
+      "basePrice": 38.0,
+      "salePrice": null,
+      "currency": "USD",
+      "priceUnit": "each",
+      "isOnSale": false,
+      "images": [
+        {
+          "url": "https://example.com/images/chatprd-tee-pink-anti-front.jpg",
+          "alt": "ChatPRD pink Anti To-Do List tee front"
+        }
+      ],
+      "variants": [
+        {
+          "id": "TSH_CHATPRD_PINK_ANTITODO_XS",
+          "sku": "TSH-CHATPRD-PNK-ANTI-001-XS",
+          "attributes": {
+            "size": "XS",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 5, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_PINK_ANTITODO_S",
+          "sku": "TSH-CHATPRD-PNK-ANTI-001-S",
+          "attributes": {
+            "size": "S",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 8, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_PINK_ANTITODO_M",
+          "sku": "TSH-CHATPRD-PNK-ANTI-001-M",
+          "attributes": {
+            "size": "M",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 10, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_PINK_ANTITODO_L",
+          "sku": "TSH-CHATPRD-PNK-ANTI-001-L",
+          "attributes": {
+            "size": "L",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 7, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_PINK_ANTITODO_XL",
+          "sku": "TSH-CHATPRD-PNK-ANTI-001-XL",
+          "attributes": {
+            "size": "XL",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 4, "isInStock": true }
+        }
+      ],
+      "ai": {
+        "embeddings": { "text": [0.01], "name": [0.01], "description": [0.01], "combined": [0.01] },
+        "semanticTags": ["anti to-do list", "focus on impact", "builder energy"],
+        "styleAttributes": {
+          "formality": "casual",
+          "occasion": ["meetups", "hack nights", "weekend"],
+          "season": ["summer", "spring"],
+          "colorPalette": ["bright"],
+          "pattern": "solid",
+          "texture": "soft jersey",
+          "fit": "unisex",
+          "material": "cotton blend"
+        },
+        "aiGenerated": {
+          "description": "A pink tee for product people who delete more than they add.",
+          "tags": ["anti to-do", "focus", "builder"],
+          "seoKeywords": ["product manager tee", "anti to-do list shirt"],
+          "generatedAt": "2024-01-20T10:20:00Z",
+          "model": "gpt-4",
+          "confidence": 0.9
+        },
+        "similarityScores": {}
+      },
+      "agent": {
+        "primaryUseCases": ["Michigan summer nights", "casual product meetups"],
+        "toneOfVoice": "playful, sharp",
+        "keySellingPoints": [
+          "Bold pink with Anti To-Do List statement",
+          "Unisex fit for everyday wear",
+          "Signals you cut scope, not corners"
+        ]
+      }
+    },
+    {
+      "id": "TSH_CHATPRD_BLACK_MEASURED",
+      "sku": "TSH-CHATPRD-BLK-MEAS-001",
+      "name": "ChatPRD Tee – Measured",
+      "slug": "chatprd-tee-measured",
+      "brand": "ChatPRD",
+      "description": "Black unisex tee with ChatPRD logo and “Measured” text. For people who care more about outcomes than vibes.",
+      "shortDescription": "Black Measured tee.",
+      "categoryIds": ["cat_tshirts"],
+      "tags": ["tshirt", "black", "measured", "ny collection", "chatprd"],
+      "basePrice": 38.0,
+      "salePrice": null,
+      "currency": "USD",
+      "priceUnit": "each",
+      "isOnSale": false,
+      "images": [
+        {
+          "url": "https://example.com/images/chatprd-tee-black-measured-front.jpg",
+          "alt": "ChatPRD black Measured tee front"
+        }
+      ],
+      "variants": [
+        {
+          "id": "TSH_CHATPRD_BLACK_MEASURED_S",
+          "sku": "TSH-CHATPRD-BLK-MEAS-001-S",
+          "attributes": {
+            "size": "S",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 6, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_BLACK_MEASURED_M",
+          "sku": "TSH-CHATPRD-BLK-MEAS-001-M",
+          "attributes": {
+            "size": "M",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 10, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_BLACK_MEASURED_L",
+          "sku": "TSH-CHATPRD-BLK-MEAS-001-L",
+          "attributes": {
+            "size": "L",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 8, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_BLACK_MEASURED_XL",
+          "sku": "TSH-CHATPRD-BLK-MEAS-001-XL",
+          "attributes": {
+            "size": "XL",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 3, "isInStock": true }
+        }
+      ],
+      "ai": {
+        "embeddings": { "text": [0.02], "name": [0.02], "description": [0.02], "combined": [0.02] },
+        "semanticTags": ["measured outcomes", "data-minded", "nyc energy"],
+        "styleAttributes": {
+          "formality": "casual",
+          "occasion": ["office", "meetings", "conferences"],
+          "season": ["spring", "fall"],
+          "colorPalette": ["dark"],
+          "pattern": "solid",
+          "texture": "soft jersey",
+          "fit": "unisex",
+          "material": "cotton blend"
+        },
+        "aiGenerated": {
+          "description": "A black tee for product leaders who ask for numbers, not adjectives.",
+          "tags": ["measured", "data-first", "outcome-driven"],
+          "seoKeywords": ["measured tee", "product data shirt"],
+          "generatedAt": "2024-01-20T10:21:00Z",
+          "model": "gpt-4",
+          "confidence": 0.9
+        },
+        "similarityScores": {}
+      },
+      "agent": {
+        "primaryUseCases": ["Fall in New York walks", "review sessions"],
+        "toneOfVoice": "calm, analytical",
+        "keySellingPoints": [
+          "Stealth black with Measured print",
+          "Signals you bring data to the table",
+          "Works under hoodies and jackets"
+        ]
+      }
+    },
+    {
+      "id": "TSH_CHATPRD_BLACK_NEWPM",
+      "sku": "TSH-CHATPRD-BLK-NEWPM-001",
+      "name": "ChatPRD Tee – The New PM",
+      "slug": "chatprd-tee-the-new-pm",
+      "brand": "ChatPRD",
+      "description": "Black tee with ChatPRD logo and “The New PM” text. For AI-native product leaders redefining the job.",
+      "shortDescription": "Black The New PM tee.",
+      "categoryIds": ["cat_tshirts"],
+      "tags": ["tshirt", "black", "the new pm", "ny collection", "chatprd"],
+      "basePrice": 40.0,
+      "salePrice": null,
+      "currency": "USD",
+      "priceUnit": "each",
+      "isOnSale": false,
+      "images": [
+        {
+          "url": "https://example.com/images/chatprd-tee-black-newpm-front.jpg",
+          "alt": "ChatPRD black The New PM tee front"
+        }
+      ],
+      "variants": [
+        {
+          "id": "TSH_CHATPRD_BLACK_NEWPM_S",
+          "sku": "TSH-CHATPRD-BLK-NEWPM-001-S",
+          "attributes": {
+            "size": "S",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 6, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_BLACK_NEWPM_M",
+          "sku": "TSH-CHATPRD-BLK-NEWPM-001-M",
+          "attributes": {
+            "size": "M",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 9, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_BLACK_NEWPM_L",
+          "sku": "TSH-CHATPRD-BLK-NEWPM-001-L",
+          "attributes": {
+            "size": "L",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 7, "isInStock": true }
+        }
+      ],
+      "ai": {
+        "embeddings": { "text": [0.03], "name": [0.03], "description": [0.03], "combined": [0.03] },
+        "semanticTags": ["ai-native pm", "future of product", "nyc tech"],
+        "styleAttributes": {
+          "formality": "casual",
+          "occasion": ["conferences", "panels", "product events"],
+          "season": ["spring", "fall"],
+          "colorPalette": ["dark"],
+          "pattern": "solid",
+          "texture": "soft jersey",
+          "fit": "unisex",
+          "material": "cotton blend"
+        },
+        "aiGenerated": {
+          "description": "A tee for PMs who ship with AI, not slides.",
+          "tags": ["new pm", "ai-native", "modern product"],
+          "seoKeywords": ["new pm shirt", "AI product manager tee"],
+          "generatedAt": "2024-01-20T10:22:00Z",
+          "model": "gpt-4",
+          "confidence": 0.9
+        },
+        "similarityScores": {}
+      },
+      "agent": {
+        "primaryUseCases": ["NY tech events", "AI meetups"],
+        "toneOfVoice": "bold, forward-looking",
+        "keySellingPoints": [
+          "The New PM statement on chest",
+          "Signals you’re AI-native",
+          "Pairs well with black hoodie"
+        ]
+      }
+    },
+    {
+      "id": "TSH_CHATPRD_BLACK_OG",
+      "sku": "TSH-CHATPRD-BLK-OG-001",
+      "name": "ChatPRD Tee – OG",
+      "slug": "chatprd-tee-og",
+      "brand": "ChatPRD",
+      "description": "Clean black tee with the original ChatPRD logo. No tagline, no copy — just OG branding.",
+      "shortDescription": "Black OG logo tee.",
+      "categoryIds": ["cat_tshirts"],
+      "tags": ["tshirt", "black", "og", "ny collection", "chatprd"],
+      "basePrice": 36.0,
+      "salePrice": null,
+      "currency": "USD",
+      "priceUnit": "each",
+      "isOnSale": false,
+      "images": [
+        {
+          "url": "https://example.com/images/chatprd-tee-black-og-front.jpg",
+          "alt": "ChatPRD black OG logo tee front"
+        }
+      ],
+      "variants": [
+        {
+          "id": "TSH_CHATPRD_BLACK_OG_S",
+          "sku": "TSH-CHATPRD-BLK-OG-001-S",
+          "attributes": {
+            "size": "S",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 5, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_BLACK_OG_M",
+          "sku": "TSH-CHATPRD-BLK-OG-001-M",
+          "attributes": {
+            "size": "M",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 9, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_BLACK_OG_L",
+          "sku": "TSH-CHATPRD-BLK-OG-001-L",
+          "attributes": {
+            "size": "L",
+            "color": "Black",
+            "colorHex": "#000000",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 9, "isInStock": true }
+        }
+      ],
+      "ai": {
+        "embeddings": { "text": [0.04], "name": [0.04], "description": [0.04], "combined": [0.04] },
+        "semanticTags": ["classic merch", "low-key branding"],
+        "styleAttributes": {
+          "formality": "casual",
+          "occasion": ["daily wear", "office", "events"],
+          "season": ["all"],
+          "colorPalette": ["dark"],
+          "pattern": "solid",
+          "texture": "soft jersey",
+          "fit": "unisex",
+          "material": "cotton blend"
+        },
+        "aiGenerated": {
+          "description": "The simplest way to rep ChatPRD — the OG logo tee.",
+          "tags": ["og logo", "classic", "simple"],
+          "seoKeywords": ["ChatPRD OG tee", "product merch"],
+          "generatedAt": "2024-01-20T10:23:00Z",
+          "model": "gpt-4",
+          "confidence": 0.9
+        },
+        "similarityScores": {}
+      },
+      "agent": {
+        "primaryUseCases": ["everyday city wear", "NY fall layering"],
+        "toneOfVoice": "understated, confident",
+        "keySellingPoints": [
+          "Clean OG logo only",
+          "Versatile black tee",
+          "Easy entry into ChatPRD gear"
+        ]
+      }
+    },
+    {
+      "id": "TSH_CHATPRD_PINK_RINGS",
+      "sku": "TSH-CHATPRD-PNK-RINGS-001",
+      "name": "ChatPRD Tee – Rings",
+      "slug": "chatprd-tee-rings",
+      "brand": "ChatPRD",
+      "description": "Pink tee with ChatPRD logo and ring graphic motif. A more playful New York drop.",
+      "shortDescription": "Pink Rings tee.",
+      "categoryIds": ["cat_tshirts"],
+      "tags": ["tshirt", "pink", "rings", "ny collection", "chatprd"],
+      "basePrice": 38.0,
+      "salePrice": null,
+      "currency": "USD",
+      "priceUnit": "each",
+      "isOnSale": false,
+      "images": [
+        {
+          "url": "https://example.com/images/chatprd-tee-pink-rings-front.jpg",
+          "alt": "ChatPRD pink Rings tee front"
+        }
+      ],
+      "variants": [
+        {
+          "id": "TSH_CHATPRD_PINK_RINGS_S",
+          "sku": "TSH-CHATPRD-PNK-RINGS-001-S",
+          "attributes": {
+            "size": "S",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 5, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_PINK_RINGS_M",
+          "sku": "TSH-CHATPRD-PNK-RINGS-001-M",
+          "attributes": {
+            "size": "M",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 8, "isInStock": true }
+        },
+        {
+          "id": "TSH_CHATPRD_PINK_RINGS_L",
+          "sku": "TSH-CHATPRD-PNK-RINGS-001-L",
+          "attributes": {
+            "size": "L",
+            "color": "Pink",
+            "colorHex": "#FF7BAC",
+            "fit": "unisex"
+          },
+          "inventory": { "quantity": 6, "isInStock": true }
+        }
+      ],
+      "ai": {
+        "embeddings": { "text": [0.05], "name": [0.05], "description": [0.05], "combined": [0.05] },
+        "semanticTags": ["graphic tee", "playful", "nyc drop"],
+        "styleAttributes": {
+          "formality": "casual",
+          "occasion": ["events", "weekend", "meetups"],
+          "season": ["summer", "spring"],
+          "colorPalette": ["bright"],
+          "pattern": "graphic",
+          "texture": "soft jersey",
+          "fit": "unisex",
+          "material": "cotton blend"
+        },
+        "aiGenerated": {
+          "description": "A pink graphic tee from the New York Rings drop.",
+          "tags": ["rings graphic", "playful drop", "NY collection"],
+          "seoKeywords": ["ChatPRD rings tee", "NY drop shirt"],
+          "generatedAt": "2024-01-20T10:24:00Z",
+          "model": "gpt-4",
+          "confidence": 0.9
+        },
+        "similarityScores": {}
+      },
+      "agent": {
+        "primaryUseCases": ["NY summer events", "casual hangs"],
+        "toneOfVoice": "playful, expressive",
+        "keySellingPoints": [
+          "Pink NY collection tee with ring motif",
+          "Graphic option in the lineup",
+          "Pairs with hoodies and denim"
+        ]
+      }
+    }
+  ]
+  
